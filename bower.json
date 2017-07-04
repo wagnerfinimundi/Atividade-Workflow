@@ -1,0 +1,17 @@
+{
+  "name": "aula de workflow",
+  "description": "aula de workflow bower",
+  "main": "gulpfile.js",
+  "authors": [
+    "wagnerfinimundi <wagner.finimundi@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/wagnerfinimundi/Atividade-Workflow",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
